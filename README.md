@@ -4,7 +4,7 @@ tecnologias:
 
 react+vite , js , taildwind
 
-
+---
 para probar el proyecto puedes optar por descargar el archivo en zip o simplemente clonarlo
 ```sh
 git clone https://github.com/Gustavo-Marin05/prueba-tecnica-favorcito.git

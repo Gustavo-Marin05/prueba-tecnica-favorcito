@@ -1,3 +1,27 @@
+Gustavo Marin Masti
+tecnologias:
+react+vite , js , taildwind
+
+
+para probar el proyecto puedes optar por descargar el archivo en zip o simplemente clonarlo
+```sh
+git clone https://github.com/Gustavo-Marin05/prueba-tecnica-favorcito.git
+```
+
+
+depsues de clonar o descargar realizar lo siguiente en el git bash o cmd de preferencia dentro de la ruta del proyecto
+
+comando para descargar las dependencias
+```sh
+npm install
+
+npm i
+```
+
+comando para hacer correr la aplicacion
+```sh
+npm run dev
+```
 
 
 

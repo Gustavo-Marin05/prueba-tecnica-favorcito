@@ -1,5 +1,7 @@
-Gustavo Marin Masti
-tecnologias:
+Gustavo Marin Masti  
+
+tecnologias:  
+
 react+vite , js , taildwind
 
 
@@ -22,13 +24,6 @@ comando para hacer correr la aplicacion
 ```sh
 npm run dev
 ```
-
-
-
-
-
-
-
 
 
 

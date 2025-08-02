@@ -2,7 +2,7 @@ Gustavo Marin Masti
 
 tecnologias:  
 
-react+vite , js , taildwind
+react+vite , js , taildwind, zustand
 
 ---
 para probar el proyecto puedes optar por descargar el archivo en zip o simplemente clonarlo

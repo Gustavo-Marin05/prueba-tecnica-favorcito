@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { Weather } from '../api/weatherService';
+import { Weather } from '../api/weatherApi';
 
 
 export const useWeatherStore = create((set) => ({
